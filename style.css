@@ -103,19 +103,52 @@ p{
     width: 50%;
 }
 
-.experience{
-    background-image: url('images/shapes/shape-3.png');
+.back-decoration{
+    background-image: url('images/shapes/shape-7.png');
     background-repeat: no-repeat;
     background-position: right;
 }
-
-
-
 h2{
     margin: 10px;
     
 }
 
+
+.new{
+    width: 50%;
+    height:500px;
+    padding-left: 20px;;
+    margin-right: 20px;
+    box-shadow: 10px 10px 20px rgb(30, 46, 139);
+    border-radius: 10px;
+    background-color: rgb(175, 172, 172);
+}
+#designer{
+    margin-top: 20px;
+    margin-left: 42%;
+}
+#frontend{
+    margin-top: 20px;
+    margin-left: 50%;
+}
+.new p{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: 900;
+}
+.new h3{
+    margin-left: 40%;
+    
+}
+.new span{
+    color: rgb(166, 62, 226);
+}
+.unorder{
+    list-style-type: none;
+    margin-left: 39%;
+    font-size: 18px;
+}
 
 
 
@@ -126,3 +159,6 @@ h2{
     background-color:rgb(173, 113, 241);
    
 }
+
+
+
