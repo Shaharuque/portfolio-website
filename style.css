@@ -67,6 +67,7 @@ p{
     display: flex;
     margin-left: 600px;
 }
+
 .e-1{
     width: 40%;
     padding-left: 20px;;
@@ -129,7 +130,7 @@ h2{
 }
 #frontend{
     margin-top: 20px;
-    margin-left: 50%;
+    margin-left: 47%;
 }
 .new p{
     text-align: center;
@@ -146,7 +147,7 @@ h2{
 }
 .unorder{
     list-style-type: none;
-    margin-left: 39%;
+    margin-left: 36%;
     font-size: 18px;
 }
 
@@ -156,9 +157,17 @@ h2{
     font-size: 100px;
     text-align: center;
     margin-bottom: 20px;
-    background-color:rgb(173, 113, 241);
+    background-color:rgb(10, 10, 10);
    
 }
+#footer{
+    color: aliceblue;
+}
+.foot .mission h1{
+    color: antiquewhite;
+}
 
-
+span{
+    color: rgb(255, 30, 0);
+}
 
