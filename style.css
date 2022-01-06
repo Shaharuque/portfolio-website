@@ -1,0 +1,124 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Urbanist', sans-serif;
+}
+.SECTION{
+    margin-bottom: 100px;
+}
+.flexible-container{
+    display: flex;  
+    margin: 50px;
+}
+.upmostpart-style{
+    padding-left: 20px;;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+.top-header{
+    border-left: 4px solid;
+    border-image: linear-gradient(rgb(255, 30, 0),rgb(255, 72, 0)) ;
+    border-image-slice: 1;
+    margin-left: 2px;
+    margin-top: 100px;
+    
+}
+h1{
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: 50px;
+    
+}
+.header-style{
+    color: rgb(230, 100, 53);
+}
+p{
+    color: black;
+    font-size: 20px;
+    margin-left: 5px;
+    padding: 5px;
+}
+.upmostpart-style p{
+    padding: 5;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 94, 0),rgb(255, 60, 0));
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-left: 5px;
+}
+#scrol{
+    margin-top: 20px;
+}
+.upmostpart-style img{
+    margin-top: 50px;
+    width: 80%;
+}
+
+
+.mission{
+    display: flex;
+    margin-left: 600px;
+}
+.e-1{
+    padding-left: 20px;;
+    margin-right: 20px;
+    box-shadow: 10px 10px 20px rgb(30, 46, 139);
+    border-radius: 10px;
+    background-color: rgb(185, 159, 209);
+}
+.e-1 img{
+    width: 50%;
+}
+
+.e-2{
+    padding-left: 20px;;
+    margin-right: 20px;
+    box-shadow: 10px 10px 20px rgb(26, 25, 25);
+    border-radius: 10px;
+    background-color: rgb(146, 240, 240);
+}
+.e-2 img{
+    width: 50%;
+}
+
+.e-3{
+    padding-left: 20px;;
+    margin-right: 10px;
+    box-shadow: 10px 10px 20px rgb(73, 72, 72);
+    border-radius: 10px;
+    background-color: rgb(223, 223, 223);
+}
+.e-3 img{
+    width: 50%;
+}
+
+.experience{
+    background-image: url('images/exp-bg.png');
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+
+h2{
+    margin-left: 10px;
+}
+
+
+
+
+.foot{
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color:rgb(173, 113, 241);
+   
+}
